@@ -1,11 +1,13 @@
 # Loyalty_Score_for_Card-Holder
 
 > The data is a bank card transaction and user (card) loyalty analysis dataset
-provided by a bank in Brazil. This assignment aims to practice on topics covered
+provided by a bank in Brazil.
+> - This assignment aims to practice on topics covered
 in lectures 1-3, i.e., data quality analysis, statistical analysis, and regression
-analysis given the dataset. The overall purpose of the analysis is to predict a
-loyalty score for each card id represented in userscore.csv.
-The dataset contains four files.
+analysis given the dataset.
+-  The overall purpose of the analysis is to predict a
+loyalty score for each card id represented in userscore.csv.-
+-> The dataset contains four files.
 userscore.csv contain card ids and information about the card itself - the
 first month the card was active. It also contains the predict/analysis target,
 i.e., score, which is a score calculated by the bank, indicating the loyalty of
