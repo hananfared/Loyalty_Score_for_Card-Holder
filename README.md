@@ -14,7 +14,7 @@ first month the card was active.
 i.e., score, which is a score calculated by the bank, indicating the loyalty of
 each card owner. Three features are provided, all of which are anonymized card
 categorical features.
-3. merchants.csv contains aggregate information for each merchant id represented in the data set. merchants can be joined with the transaction sets to
+3. merchants.csv contains aggregate information for each merchant id represented in the data set. merchants can be joined with the transaction sets to
 provide additional merchant-level information.
 4. The historical transactions.csv and new merchant transactions.csv files contain information about each card’s transactions. historical transactions.csv contains up to 3 months’ worth of transactions for every card at any of the provided
 merchant ids. new merchant transactions.csv contains the transactions at new
